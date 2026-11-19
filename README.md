@@ -130,3 +130,7 @@ SQL can model Boolean signals, corrected decimal carry, multiplexed state,
 clock ordering, overflow, and faults. It cannot credibly predict real voltage,
 current, heat, propagation-delay variation, metastability, or signal integrity.
 Those limitations are part of the model rather than omissions to hide.
+
+## License
+
+This project is licensed under the [Zero-Clause BSD License](LICENSE) (`0BSD`).
